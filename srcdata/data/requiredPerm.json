@@ -1,0 +1,19 @@
+{
+    "command": 0,
+    "command-js": 1,
+    "ascii": 1,
+    "autoFilter": 1,
+    "plot": 1,
+    "channelAdd": 1,
+    "verifyAdd": 1,
+    "disable": 2,
+    "enable": 2,
+    "banRequestManage": 2,
+    "botBan": 2,
+    "botUnban": 2,
+    "fgtSave": 2,
+    "command-admin": 3,
+    "sudo": 4,
+    "config": 5,
+    "bot": 5
+}
